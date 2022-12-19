@@ -3,7 +3,7 @@
     include 'guest/header.php';
 
     // Main snippets goes here
-    include 'log-in.php';
+    include 'guest/log-in.php';
     // footer
     include 'guest/footer.php;'
 

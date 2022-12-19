@@ -9,7 +9,7 @@
             <div class="form-wrapper">
                 <h4 class="logo-text mb-15">Welcome to <strong>SkillsTest</strong>
                 </h4>
-                <p>Admin Login to SkillsTest dashboard</p>
+                <p>Admin Login to User-managerdashboard</p>
                 <form action="https://skillstest.me/admin" method="POST" class="cmn-form mt-30">
                     <input type="hidden" name="_token" value="37tYQikx58exj7OZ0gQG7r5WyM3JMKIDdyOMM4IY">
                     <div class="form-group">

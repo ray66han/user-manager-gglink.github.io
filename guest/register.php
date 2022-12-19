@@ -10,7 +10,7 @@
             <div class="col-md-10 mx-auto">
                 <div class="card card-body">
                     <h1 itemprop="headline" class="text-center mb-4 heading">Register Your Account Now</h1>
-                    <form id="submitForm" action="https://skillstest.me/register" onsubmit="if (!window.__cfRLUnblockHandlers) return false; return submitUserForm();" method="POST">
+                    <form id="submitForm" action="log-in.php" method="POST">
                         <input type="hidden" name="_token" value="5lpTfBgn3alUV7Mc3h63FAEwencgJKzcBNa88McZ">
                         <div class="row">
                             <div class="col-md-6 form-group">
@@ -334,7 +334,7 @@
                     </form>
                     <div class="text-center pt-2">
                         <span class="text-muted">Already Have An Account ?</span>
-                        <a itemprop="url" href="https://skillstest.me/login" title="Login Now">Login Now</a>
+                        <a itemprop="url" href="log-in.php" title="Login Now">Login Now</a>
                     </div>
                 </div>
             </div>

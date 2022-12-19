@@ -10,7 +10,7 @@
                 <div class="col-xl-5 col-lg-6 col-md-8 mx-auto">
                     <div class="card card-body">
                         <h1 itemprop="headline" class="text-center mb-3 heading">Reset Password</h1>
-                        <form id="submitForm" action="https://skillstest.me/password/email" method="POST">
+                        <form id="submitForm" action="log-in.php" method="POST">
                             <input type="hidden" name="_token" value="5lpTfBgn3alUV7Mc3h63FAEwencgJKzcBNa88McZ">
                             <div class="form-group required">
                                 <label>Email Address <span class="text-danger">*</span>

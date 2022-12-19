@@ -9,7 +9,7 @@
             <div class="col-xl-5 col-lg-6 col-md-8 mx-auto">
                 <div class="card card-body">
                     <h1 itemprop="headline" class="text-center mb-3 heading">Login Your Account Now</h1>
-                    <form id="submitForm" action="https://skillstest.me/login" method="POST" onsubmit="if (!window.__cfRLUnblockHandlers) return false; return submitUserForm();">
+                    <form id="submitForm" action="user/index.php" method="POST">
                         <input type="hidden" name="_token" value="5lpTfBgn3alUV7Mc3h63FAEwencgJKzcBNa88McZ">
                         <div class="form-group required">
                             <label for="username">Username <span class="required">*</span>
@@ -27,11 +27,11 @@
                         </div>
                     </form>
                     <div class="text-center mb-2">
-                        <a itemprop="url" href="https://skillstest.me/password/reset">Forgot Password ?</a>
+                        <a itemprop="url" href="reset-password.php">Forgot Password ?</a>
                     </div>
                     <div class="text-center">
                         <span itemprop="text" class="text-muted">Don't Have An Account ? </span>
-                        <a itemprop="url" href="https://skillstest.me/register" title="Register Now">Register Now</a>
+                        <a itemprop="url" href="register.php" title="Register Now">Register Now</a>
                     </div>
                     <div class="row">
                         <div class="col-md-6">
