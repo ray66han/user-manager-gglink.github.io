@@ -30,7 +30,7 @@
                 </div>
                 <!-- Success Button -->
                 <div class="card-footer text-right">
-                    <a href="" title="verification code"><button type="submit" class="btn btn-success text-white p-2">Send code!</button></a>
+                    <a href="verification-user.php" title="verification code"><button type="submit" class="btn btn-success text-white p-2">Send code!</button></a>
                 </div>
             </div>
         </div>

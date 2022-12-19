@@ -7,32 +7,32 @@
                             <img src="dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
                         </div>
                         <div class="info">
-                            <a href="#" class="d-block">Alexander Pierce</a>
+                            <a href="view-user.php" class="d-block">Alexander Pierce</a>
                         </div>
                     </div>  
                     <nav class="mt-2">
                         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
                             <li class="nav-item menu-open">
-                                <a href="#" class="nav-link active">
+                                <a href="index.php" class="nav-link active">
                                     <i class="nav-icon fas fa-tachometer-alt"></i>
                                     <p> Dashboard <i class="right fas fa-angle-left"></i>
                                     </p>
                                 </a>
                                 <ul class="nav nav-treeview">
                                     <li class="nav-item">
-                                        <a href="./index.html" class="nav-link active">
+                                        <a href="view-user.php" class="nav-link active">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>View-profile</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="./index2.html" class="nav-link">
+                                        <a href="edit-user.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Edit-profile</p>
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="./index3.html" class="nav-link">
+                                        <a href="delete-user.php" class="nav-link">
                                             <i class="far fa-circle nav-icon"></i>
                                             <p>Delete-profile</p>
                                         </a>
@@ -40,14 +40,14 @@
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a href="pages/widgets.html" class="nav-link">
+                                <a href="recovery-user.php" class="nav-link">
                                     <i class="nav-icon fas fa-th"></i>
                                     <p> Recovery Option <span class="right badge badge-danger">New</span>
                                     </p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="verification-request-user.php" class="nav-link">
                                     <i class="nav-icon fas fa-copy"></i>
                                     <p> Verification Request <i class="fas fa-angle-left right"></i>
                                         <span class="badge badge-info right">6</span>

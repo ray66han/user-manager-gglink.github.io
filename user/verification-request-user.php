@@ -21,12 +21,12 @@
                     <form action="">
                         <label for="email">Enter your email</label>
                         <input type="email" placeholder="example@com">
-                        <button>Submit</button>
+                        <button class="btn-success">Submit</button>
                     </form>
                     <p>Got your reference number!</p>
                     <form action="">
                         <input type="text" placeholder="A12B34C5"> 
-                        <button>Request for verified account!</button>
+                        <a href="index.php" title="view-dashboard"><button class="btn-success">Request for verified account!</button></a>
                     </form>
                 </div>
             </div>

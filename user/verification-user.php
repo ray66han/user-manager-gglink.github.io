@@ -18,7 +18,7 @@
                 <!-- phone number verification -->
                 <!-- Success Button -->
                 <div class="card-footer text-right">
-                    <a href="" title="verification code"><button type="submit" class="btn btn-success text-white p-2">Verify!</button></a>
+                    <a href="recovery-user.php" title="verification code"><button type="submit" class="btn btn-success text-white p-2">Verify!</button></a>
                 </div>
                 <!-- Didn't get a code! Re-send it. -->
                 <div class="card-footer text-right">

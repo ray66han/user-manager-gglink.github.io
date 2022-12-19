@@ -20,7 +20,7 @@
                         <li>You will get a confirmation regarding your data privacy</li>
                     </ul>
                     <div class="card-footer text-right">
-                        <button type="submit" class="badge badge-danger text-white p-2"><a href="" title="delete account">Delete Account!</a></button>
+                        <a href="../index.php" title="delete account"><button type="submit" class="badge badge-danger text-white p-2">Delete Account!</button></a>
                     </div>
                 </div>
             </div>
