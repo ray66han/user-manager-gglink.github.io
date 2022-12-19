@@ -27,11 +27,11 @@
                         </div>
                     </form>
                     <div class="text-center mb-2">
-                        <a itemprop="url" href="reset-password.php">Forgot Password ?</a>
+                        <a itemprop="url" href="guest/reset-password.php">Forgot Password ?</a>
                     </div>
                     <div class="text-center">
                         <span itemprop="text" class="text-muted">Don't Have An Account ? </span>
-                        <a itemprop="url" href="register.php" title="Register Now">Register Now</a>
+                        <a itemprop="url" href="guest/register.php" title="Register Now">Register Now</a>
                     </div>
                     <div class="row">
                         <div class="col-md-6">
