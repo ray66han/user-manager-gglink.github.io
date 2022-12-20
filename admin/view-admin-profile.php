@@ -24,6 +24,9 @@
                 <p class="text-muted text-center email">E-Mail : rayan@gglink.co.uk</p>
                 <p class="text-muted text-center adress">Address : London</p>
             </div>
+            <div class="card-footer text-right">
+                <a href="index.php" title="delete account"><button type="submit" class="badge badge-danger text-white p-2">Sign-out</button></a>
+            </div>
         </div>
     </div>
 </div>

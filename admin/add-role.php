@@ -17,7 +17,7 @@
                 </div>
             </div>
             <div class="container-fluid">
-                <form action="https://skillstest.me/admin/users/roles" method="POST">
+                <form action="" method="POST">
                     <input type="hidden" name="_token" value="fFzHuYKFvUmpTHE2yPgXry9w15soGmmRGD6uvAkp">
                     <div class="row justify-content-center">
                         <div class="col-md-8">

@@ -88,7 +88,7 @@
             <div class="card mt-50">
                 <div class="card-body">
                     <h5 class="card-title mb-50 border-bottom pb-2">Jacywed JacywedHG Information</h5>
-                    <form action="https://skillstest.me/admin/user/update/162" method="POST" enctype="multipart/form-data">
+                    <form action="" method="POST" enctype="multipart/form-data">
                         <input type="hidden" name="_token" value="fFzHuYKFvUmpTHE2yPgXry9w15soGmmRGD6uvAkp">
                         <div class="row">
                             <div class="col-md-6">
@@ -481,7 +481,7 @@
                         <span aria-hidden="true">×</span>
                     </button>
                 </div>
-                <form action="https://skillstest.me/admin/user/add-sub-balance/162" method="POST">
+                <form action="" method="POST">
                     <input type="hidden" name="_token" value="fFzHuYKFvUmpTHE2yPgXry9w15soGmmRGD6uvAkp">
                     <div class="modal-body">
                         <div class="form-row">
@@ -507,7 +507,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="modal-footer">
+                    <div class="modal-footer btn-success">
                         <button type="button" class="btn btn--dark" data-dismiss="modal">Close</button>
                         <button type="submit" class="btn btn-success">Submit</button>
                     </div>

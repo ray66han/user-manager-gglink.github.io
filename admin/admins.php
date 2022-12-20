@@ -10,7 +10,7 @@
                 <h6 class="page-title">Admin List</h6>
             </div>
             <div class="col-lg-6 col-sm-6 text-sm-right mt-sm-0 mt-3 right-part">
-                <a href="https://skillstest.me/admin/users/admin/create" class="btn btn--primary">
+                <a href="add-admin.php" class="btn btn-success">
                     <i class="las la-plus"></i> Add Admin </a>
                 <br>
                 <br>
@@ -52,7 +52,7 @@
                                             </div>
                                         </td>
                                         <td data-label="Username">
-                                            <a href="https://skillstest.me/admin/users/admin/27/edit">maliha678</a>
+                                            <a href="admin-user-crud.php">maliha678</a>
                                         </td>
                                         <td data-label="Email">mahzabintmm@gmail.com</td>
                                         <td data-label="Joined At">28 Apr, 2022 02:41 PM</td>
@@ -79,7 +79,7 @@
                                             </div>
                                         </td>
                                         <td data-label="Username">
-                                            <a href="https://skillstest.me/admin/users/admin/26/edit">oshin</a>
+                                            <a href="admin-user-crud.php">oshin</a>
                                         </td>
                                         <td data-label="Email">rokeyaoshin@gmail.com</td>
                                         <td data-label="Joined At">21 Apr, 2022 05:11 AM</td>
@@ -106,7 +106,7 @@
                                             </div>
                                         </td>
                                         <td data-label="Username">
-                                            <a href="https://skillstest.me/admin/users/admin/24/edit">ratul66</a>
+                                            <a href="admin-user-crud.php">ratul66</a>
                                         </td>
                                         <td data-label="Email">rafsanhassan230@gmail.com</td>
                                         <td data-label="Joined At">10 Apr, 2022 10:49 AM</td>
@@ -133,7 +133,7 @@
                                             </div>
                                         </td>
                                         <td data-label="Username">
-                                            <a href="https://skillstest.me/admin/users/admin/23/edit">protasha66</a>
+                                            <a href="admin-user-crud.php">protasha66</a>
                                         </td>
                                         <td data-label="Email">shairaislam8@gmail.com</td>
                                         <td data-label="Joined At">10 Apr, 2022 08:34 AM</td>
@@ -160,7 +160,7 @@
                                             </div>
                                         </td>
                                         <td data-label="Username">
-                                            <a href="https://skillstest.me/admin/users/admin/22/edit">tajulskillstest</a>
+                                            <a href="admin-user-crud.php">tajulskillstest</a>
                                         </td>
                                         <td data-label="Email">tajul.azazil@gmail.com</td>
                                         <td data-label="Joined At">09 Apr, 2022 08:46 AM</td>
@@ -187,7 +187,7 @@
                                             </div>
                                         </td>
                                         <td data-label="Username">
-                                            <a href="https://skillstest.me/admin/users/admin/21/edit">pratashaskillstest</a>
+                                            <a href="admin-user-crud.php">pratashaskillstest</a>
                                         </td>
                                         <td data-label="Email">shairaislam8@gmail.com</td>
                                         <td data-label="Joined At">09 Apr, 2022 08:45 AM</td>
@@ -214,7 +214,7 @@
                                             </div>
                                         </td>
                                         <td data-label="Username">
-                                            <a href="https://skillstest.me/admin/users/admin/20/edit">autosheskillstest</a>
+                                            <a href="admin-user-crud.php">autosheskillstest</a>
                                         </td>
                                         <td data-label="Email">ibnatautoshe4@gmail.com</td>
                                         <td data-label="Joined At">09 Apr, 2022 08:43 AM</td>
@@ -241,7 +241,7 @@
                                             </div>
                                         </td>
                                         <td data-label="Username">
-                                            <a href="https://skillstest.me/admin/users/admin/15/edit">ray66</a>
+                                            <a href="admin-user-crud.php">ray66</a>
                                         </td>
                                         <td data-label="Email">rayhan66chowdhury@gmail.com</td>
                                         <td data-label="Joined At">16 Mar, 2022 03:48 PM</td>
@@ -268,7 +268,7 @@
                                             </div>
                                         </td>
                                         <td data-label="Username">
-                                            <a href="https://skillstest.me/admin/users/admin/11/edit"></a>
+                                            <a href="admin-user-crud.php"></a>
                                         </td>
                                         <td data-label="Email">sdfgskdfhshdfkhskf@gmail.com</td>
                                         <td data-label="Joined At">03 Feb, 2022 05:16 PM</td>
@@ -295,7 +295,7 @@
                                             </div>
                                         </td>
                                         <td data-label="Username">
-                                            <a href="https://skillstest.me/admin/users/admin/1/edit">rikmon</a>
+                                            <a href=admin-user-crud.php">rikmon</a>
                                         </td>
                                         <td data-label="Email">admin@gglink.uk</td>
                                         <td data-label="Joined At">19 Dec, 2022 10:28 PM</td>
@@ -322,7 +322,7 @@
                                             </div>
                                         </td>
                                         <td data-label="Username">
-                                            <a href="https://skillstest.me/admin/users/admin/6/edit">mahzabintmm</a>
+                                            <a href=admin-user-crud.php">mahzabintmm</a>
                                         </td>
                                         <td data-label="Email">mahzabintmm@gmail.com</td>
                                         <td data-label="Joined At">19 Dec, 2022 10:28 PM</td>
@@ -349,7 +349,7 @@
                                             </div>
                                         </td>
                                         <td data-label="Username">
-                                            <a href="https://skillstest.me/admin/users/admin/7/edit">rayhan66chowdhury</a>
+                                            <a href=admin-user-crud.php">rayhan66chowdhury</a>
                                         </td>
                                         <td data-label="Email">rayhan66chowdhury@gmail.com</td>
                                         <td data-label="Joined At">19 Dec, 2022 10:28 PM</td>

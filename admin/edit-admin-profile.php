@@ -55,7 +55,7 @@
                 </div>
             </div>
             <div class="card-footer text-right">
-                <button type="submit" class="btn btn-success text-white p-2">Update</button>
+                <a href="view-admin-profile.php" title="view-profile"><button type="submit" class="btn btn-success text-white p-2">Update</button></a>
             </div>
         </div>
     </div>

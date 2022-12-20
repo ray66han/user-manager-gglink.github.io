@@ -50,13 +50,13 @@
                                                 </div>
                                             </td>
                                             <td data-label="Username">
-                                                <a href="https://skillstest.me/admin/user/detail/20">113884999122655323006</a>
+                                                <a href="admin-user-crud.php">113884999122655323006</a>
                                             </td>
                                             <td data-label="Email">ourportfolios897@gmail.com</td>
                                             <td data-label="Phone">1688416719</td>
                                             <td data-label="Joined At">10 Jan, 2022 04:54 PM</td>
                                             <td data-label="Action">
-                                                <a href="https://skillstest.me/admin/user/detail/20" class="icon-btn" data-toggle="tooltip" title="" data-original-title="Details">
+                                                <a href="admin-user-crud.php" class="icon-btn" data-toggle="tooltip" title="" data-original-title="Details">
                                                     <i class="las la-desktop text--shadow"></i>
                                                 </a>
                                                 <form action="https://skillstest.me/admin/users/20/delete" class="d-inline" method="POST">

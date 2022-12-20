@@ -1,11 +1,10 @@
 <!-- header link -->
 <?php
     include 'header.php';
-    include 'navbar.php';
 ?>
 <!-- body items goes here -->
 <?php
-    include 'navbar.php';
+    include 'sign-in.php';
 ?>
 
 

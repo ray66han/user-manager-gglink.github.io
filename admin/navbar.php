@@ -7,32 +7,32 @@
                         <img src="dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
                     </div>
                     <div class="info">
-                        <a href="#" class="d-block">Alexander Pierce</a>
+                        <a href="view-admin-profile.php" class="d-block">Alexander Pierce</a>
                     </div>
                 </div>
                 <nav class="mt-2">
                     <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
                         <li class="nav-item menu-open">
-                            <a href="#" class="nav-link active">
+                            <a href="dashboard.php" class="nav-link active">
                                 <i class="nav-icon fas fa-tachometer-alt"></i>
                                 <p> Dashboard <i class="right fas fa-angle-left"></i>
                                 </p>
                             </a>
                             <ul class="nav nav-treeview">
                                 <li class="nav-item">
-                                    <a href="./index.html" class="nav-link active">
+                                    <a href="view-admin-profile.php" class="nav-link active">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>View-profile</p>
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="./index2.html" class="nav-link">
+                                    <a href="edit-admin-profile.php" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Edit-profile</p>
                                     </a>
                                 </li>
                                 <li class="sidebar-menu-item sidebar-dropdown">
-                                    <a href="javascript:void(0)" class="side-menu--open">
+                                    <a href="all-user.php" class="side-menu--open">
                                         <i class="menu-icon las la-users"></i>
                                         <span class="menu-title">Manage Users</span>
                                         <span class="menu-badge pill bg--primary ml-auto">
@@ -42,39 +42,39 @@
                                     <div class="sidebar-submenu sidebar-submenu__open" style="display: block;">
                                         <ul>
                                             <li class="sidebar-menu-item  ">
-                                                <a href="https://skillstest.me/admin/users/admin" class="nav-link">
+                                                <a href="admins.php" class="nav-link">
                                                     <i class="menu-icon las la-dot-circle"></i>
                                                     <span class="menu-title">Admins</span>
                                                 </a>
                                             </li>
                                             <li class="sidebar-menu-item  ">
-                                                <a href="https://skillstest.me/admin/users/roles" class="nav-link">
+                                                <a href="admin-roles.php" class="nav-link">
                                                     <i class="menu-icon las la-dot-circle"></i>
                                                     <span class="menu-title">Roles</span>
                                                 </a>
                                             </li>
                                             <li class="sidebar-menu-item  ">
-                                                <a href="https://skillstest.me/admin/users" class="nav-link">
+                                                <a href="all-user.php" class="nav-link">
                                                     <i class="menu-icon las la-dot-circle"></i>
                                                     <span class="menu-title">All Users</span>
                                                 </a>
                                             </li>
                                             <li class="sidebar-menu-item  ">
-                                                <a href="https://skillstest.me/admin/users/banned" class="nav-link">
+                                                <a href="banned-user.php" class="nav-link">
                                                     <i class="menu-icon las la-dot-circle"></i>
                                                     <span class="menu-title">Banned Users</span>
                                                     <span class="menu-badge pill bg--primary ml-auto">1</span>
                                                 </a>
                                             </li>
                                             <li class="sidebar-menu-item  ">
-                                                <a href="https://skillstest.me/admin/users/email-unverified" class="nav-link">
+                                                <a href="email-un-verified.php" class="nav-link">
                                                     <i class="menu-icon las la-dot-circle"></i>
                                                     <span class="menu-title">Email Unverified</span>
                                                     <span class="menu-badge pill bg--primary ml-auto">132</span>
                                                 </a>
                                             </li>
                                             <li class="sidebar-menu-item ">
-                                                <a href="https://skillstest.me/admin/users/sms-unverified" class="nav-link">
+                                                <a href="sms-un-verified.php" class="nav-link">
                                                     <i class="menu-icon las la-dot-circle"></i>
                                                     <span class="menu-title">SMS Unverified</span>
                                                     <span class="menu-badge pill bg--primary ml-auto">1</span>
@@ -84,7 +84,7 @@
                                     </div>
                                 </li>
                                 <li class="sidebar-menu-item ">
-                                    <a href="https://skillstest.me/admin/users/sms-unverified" class="nav-link">
+                                    <a href="general-settings.php" class="nav-link">
                                         <i class="menu-icon las la-dot-circle"></i>
                                         <span class="menu-title">General Settings</span>
                                     </a>

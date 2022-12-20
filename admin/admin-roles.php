@@ -10,7 +10,7 @@
                     <h6 class="page-title">All Roles</h6>
                 </div>
                 <div class="col-lg-6 col-sm-6 text-sm-right mt-sm-0 mt-3 right-part">
-                    <a href="https://skillstest.me/admin/users/roles/create" class="btn btn-success">
+                    <a href="add-role.php" class="btn btn-success">
                         <i class="las la-plus"></i> Add Role </a>
                 </div>
             </div>
