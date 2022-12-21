@@ -7,7 +7,7 @@
                         <img src="dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
                     </div>
                     <div class="info">
-                        <a href="view-admin-profile.php" class="d-block">Alexander Pierce</a>
+                        <a href="view-admin-profile.php" class="d-block">Rayhan Bijoy</a>
                     </div>
                 </div>
                 <nav class="mt-2">
