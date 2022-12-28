@@ -11,8 +11,9 @@
             <div class="row mb-2">
                 <div class="col-sm-6">
                     <h1 class="m-0 text-dark">
-                        <i class="fas fa-user"></i> Welcome User-manager CMS!
+                        <i class="fas fa-user"></i> Welcome to User-manager CMS!
                     </h1>
+                    <h4>Good morning Rayan Chowdhury!</h4>
                     <p>It's a CMS system where you can manage all users and also admins.</p>
                 </div>
             </div>

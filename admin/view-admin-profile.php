@@ -19,7 +19,7 @@
                         </div>
                     </div>
                 </div>
-                <h3 class="profile-username text-center">Rayan Bijoy</h3>
+                <h3 class="profile-username text-center">Rayan Chowdhury</h3>
                 <p class="text-muted text-center phone">Phone : +4407771174774</p>
                 <p class="text-muted text-center email">E-Mail : rayan@gglink.co.uk</p>
                 <p class="text-muted text-center adress">Address : London</p>

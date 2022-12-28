@@ -14,7 +14,7 @@
                 <div class="form-group row">
                     <div class="form-group col-sm-6">
                         <label for="InputFirstname" class="col-form-label">First Name:</label>
-                        <input type="text" class="form-control" id="InputFirstname" name="firstname" placeholder="First Name" value="Rayan" required="">
+                        <input type="text" class="form-control" id="InputFirstname" name="firstname" placeholder="First Name" value="Rayhan" required="">
                     </div>
                     <div class="form-group col-sm-6">
                         <label for="lastname" class="col-form-label">Last Name:</label>
@@ -24,7 +24,7 @@
                 <div class="form-group row">
                     <div class="form-group col-sm-6">
                         <label for="email" class="col-form-label">E-mail Address:</label>
-                        <input type="email" class="form-control" id="email" name="email" placeholder="E-mail Address" value="rayanbijoy@gglink.uk" readonly="">
+                        <input type="email" class="form-control" id="email" name="email" placeholder="E-mail Address" value="rayan@gglink.uk" readonly="">
                     </div>
                     <div class="form-group col-sm-6">
                         <input type="hidden" id="track" name="country_code">

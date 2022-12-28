@@ -18,13 +18,13 @@
                     </div>
                     <div class="form-group col-sm-6">
                         <label for="lastname" class="col-form-label">Last Name:</label>
-                        <input type="text" class="form-control" id="lastname" name="lastname" placeholder="Last Name" value="Bijoy" required="">
+                        <input type="text" class="form-control" id="lastname" name="lastname" placeholder="Last Name" value="Chowdhury  " required="">
                     </div>
                 </div>
                 <div class="form-group row">
                     <div class="form-group col-sm-6">
                         <label for="email" class="col-form-label">E-mail Address:</label>
-                        <input type="email" class="form-control" id="email" name="email" placeholder="E-mail Address" value="rayanbijoy@gglink.uk" readonly="">
+                        <input type="email" class="form-control" id="email" name="email" placeholder="E-mail Address" value="rayanchowdhury@gglink.uk" readonly="">
                     </div>
                     <div class="form-group col-sm-6">
                         <input type="hidden" id="track" name="country_code">

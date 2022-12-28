@@ -4,10 +4,10 @@
             <div class="os-content" style="padding: 0px 8px; height: 100%; width: 100%;">
                 <div class="user-panel mt-3 pb-3 mb-3 d-flex">
                     <div class="image">
-                        <img src="dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+                        <img src="../asset/images/admin/gglink.png" class="img-circle elevation-2" alt="User Image">
                     </div>
                     <div class="info">
-                        <a href="view-admin-profile.php" class="d-block">Rayhan Bijoy</a>
+                        <a href="view-admin-profile.php" class="d-block">Rayan Chowdhury</a>
                     </div>
                 </div>
                 <nav class="mt-2">

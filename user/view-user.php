@@ -4,7 +4,7 @@
     include 'navbar.php';
 ?>
 <div class="content-wrapper" style="min-height: 265px;">
-    <div class="col-md-4 col-lg-12" style="text-align:center;">
+    <div class="col-md-4 col-lg-6" style="text-align:center;">
         <div class="card card-primary card-outline text-center">
             <div class="card-body box-profile">
                 <div class="profile-thumb-area text-center">
@@ -14,7 +14,7 @@
                     <div class="profile-edit">
                         <input type="file" name="image" id="imageUpload" class="upload" accept=".png, .jpg, .jpeg">
                         <div class="rank-label">
-                            <label for="imageUpload" class="imgUp bg-primary"> Upload Image </label>
+                            <label for="imageUpload" class="imgUp bg-primary btn"> Upload Image </label>
                         </div>
                     </div>
                 </div>
