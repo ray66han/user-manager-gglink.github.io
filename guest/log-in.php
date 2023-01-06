@@ -33,6 +33,10 @@
                         <span itemprop="text" class="text-muted">Don't Have An Account ? </span>
                         <a itemprop="url" href="guest/register.php" title="Register Now">Register Now</a>
                     </div>
+                    <div class="text-center">
+                        <span itemprop="text" class="text-muted">Are you an admin? </span>
+                        <a itemprop="url" href="admin/" title="Log-in">Login as a admin!</a>
+                    </div>
                     <div class="row">
                         <div class="col-md-6">
                             <div class="form-group pt-2 pb-3">
